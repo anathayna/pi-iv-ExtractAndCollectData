@@ -1,7 +1,7 @@
 am4core.ready(function() {
-	
-am4core.useTheme(am4themes_animated);
+
 am4core.useTheme(am4themes_dark);
+am4core.useTheme(am4themes_animated);
 
 var chart3 = am4core.create("chartdiv-3", am4charts.XYChart);
 
@@ -105,7 +105,7 @@ chart3.data = [
     },
     {
         "title": "Comedy",
-        "color": "#8aabb0",
+        "color": "#d8854f",
         "x": 1722,
         "y": 119364264901,
         "value": 26692824789
@@ -126,73 +126,73 @@ chart3.data = [
     },
     {
         "title": " Drama",
-        "color": "#eea638",
+        "color": "#de4c4f",
         "x": 2297,
         "y": 118317437953,
         "value": 36859741393
     },
     {
         "title": "Fantasy",
-        "color": "#86a965",
+        "color": "#ff7884",
         "x": 424,
         "y": 74494630106,
         "value": 13375486240
     },
     {
         "title": "Horror",
-        "color": "#eea638",
+        "color": "#7d7d7d",
         "x": 519,
         "y": 22023819222,
         "value": 8366419356
     },
     {
         "title": "Music",
-        "color": "#8aabb0",
+        "color": "#eea638",
         "x": 185,
         "y": 6206203278,
         "value": 1744556751
     },
     {
         "title": "Mystery",
-        "color": "#de4c4f",
-        "x": 41,
-        "y": 69288469,
-        "value": 23151586
+        "color": "#8aabb0",
+        "x": 348,
+        "y": 25377056277,
+        "value": 7293275979
     },
     {
         "title": "Romance",
-        "color": "#a7a737",
-        "x": 106,
-        "y": 65750610,
-        "value": 16608281
+        "color": "#de4c4f",
+        "x": 892,
+        "y": 50156087583,
+        "value": 12604806202
     },
     {
         "title": "Science Fiction",
-        "color": "#de4c4f",
-        "x": 96,
-        "y": 168522356,
-        "value": 36766967
+        "color": "#8354a3",
+        "x": 534,
+        "y": 80172644840,
+        "value": 17296018287
     },
     {
         "title": "Thriller",
-        "color": "#eea638",
-        "x": 195,
-        "y": 60483031,
-        "value": 20872553
+        "color": "#7d7d7d",
+        "x": 1273,
+        "y": 102140658580,
+        "value": 28225445989
     },
     {
         "title": "War",
-        "color": "#86a965",
-        "x": 24,
-        "y": 647170060,
-        "value": 18388751
+        "color": "#de4c4f",
+        "x": 144,
+        "y": 10557123733,
+        "value": 2496238732
     },
     {
         "title": "Western",
         "color": "#d8854f",
-        "x": 27,
-        "y": 49570331,
-        "value": 21329844
+        "x": 82,
+        "y": 3431515251,
+        "value": 1058251936
     }
 ];
 	
